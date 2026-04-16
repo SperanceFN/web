@@ -37,7 +37,7 @@ const About = () => {
             <div className="relative group/avatar">
               <div className="absolute -inset-4 bg-accent/20 rounded-full blur-2xl opacity-0 group-hover/avatar:opacity-100 transition-opacity" />
               <img 
-                src="https://raw.githubusercontent.com/crisutf/crisutfportfolio/refs/heads/main/src/assets/profile.png" 
+                src="https://avatars.githubusercontent.com/u/143294409" 
                 alt="Crisutf" 
                 className="relative w-28 h-28 md:w-40 md:h-40 rounded-full border-2 border-white/10 group-hover/avatar:border-accent/50 transition-all duration-500 shadow-2xl"
               />
